@@ -1,0 +1,2 @@
+# Navigate to message.txt’s directory
+%cd /content/file_operations
